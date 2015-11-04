@@ -1,9 +1,1 @@
-*
-AssemblyInfo.cs
-!.gitignore
-!*.cs
-!Aufgabe01a/
-!Aufgabe01b/
-!Aufgabe01c/
-!Aufgabe01d/
-!Aufgabe01e/
+.DS_Store

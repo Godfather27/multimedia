@@ -1,0 +1,5 @@
+/Users/Seb/Projects/Multimedia/Aufgabe01a/Aufgabe01b/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Seb/Projects/Multimedia/Aufgabe01a/Aufgabe01b/bin/Debug/Aufgabe01b.exe.mdb
+/Users/Seb/Projects/Multimedia/Aufgabe01a/Aufgabe01b/bin/Debug/Aufgabe01b.exe
+/Users/Seb/Projects/Multimedia/Aufgabe01a/Aufgabe01b/obj/x86/Debug/Aufgabe01b.exe
+/Users/Seb/Projects/Multimedia/Aufgabe01a/Aufgabe01b/obj/x86/Debug/Aufgabe01b.exe.mdb
